@@ -1,0 +1,90 @@
+alexnet lr=1e-05 bs=128 epoch 01 | train loss 0.6472 | val loss 0.6361 | val acc 0.7424
+alexnet lr=1e-05 bs=128 epoch 02 | train loss 0.6204 | val loss 0.6038 | val acc 0.7424
+alexnet lr=1e-05 bs=128 epoch 03 | train loss 0.5949 | val loss 0.5720 | val acc 0.7424
+alexnet lr=1e-05 bs=128 epoch 04 | train loss 0.5648 | val loss 0.5405 | val acc 0.7519
+alexnet lr=1e-05 bs=128 epoch 05 | train loss 0.5405 | val loss 0.5083 | val acc 0.7882
+alexnet lr=1e-05 bs=128 epoch 06 | train loss 0.5087 | val loss 0.4744 | val acc 0.8053
+alexnet lr=1e-05 bs=128 epoch 07 | train loss 0.4827 | val loss 0.4453 | val acc 0.8206
+alexnet lr=1e-05 bs=128 epoch 08 | train loss 0.4568 | val loss 0.4191 | val acc 0.8397
+alexnet lr=1e-05 bs=128 epoch 09 | train loss 0.4346 | val loss 0.3960 | val acc 0.8454
+alexnet lr=1e-05 bs=128 epoch 10 | train loss 0.4161 | val loss 0.3765 | val acc 0.8569
+alexnet lr=1e-05 bs=128 epoch 11 | train loss 0.3989 | val loss 0.3586 | val acc 0.8798
+alexnet lr=1e-05 bs=128 epoch 12 | train loss 0.3823 | val loss 0.3449 | val acc 0.8950
+alexnet lr=1e-05 bs=128 epoch 13 | train loss 0.3712 | val loss 0.3314 | val acc 0.8989
+alexnet lr=1e-05 bs=128 epoch 14 | train loss 0.3596 | val loss 0.3201 | val acc 0.8989
+alexnet lr=1e-05 bs=128 epoch 15 | train loss 0.3482 | val loss 0.3080 | val acc 0.9008
+alexnet lr=1e-05 bs=128 epoch 16 | train loss 0.3354 | val loss 0.2980 | val acc 0.9027
+alexnet lr=1e-05 bs=128 epoch 17 | train loss 0.3318 | val loss 0.2900 | val acc 0.8989
+alexnet lr=1e-05 bs=128 epoch 18 | train loss 0.3219 | val loss 0.2825 | val acc 0.8989
+alexnet lr=1e-05 bs=128 epoch 19 | train loss 0.3106 | val loss 0.2743 | val acc 0.9008
+alexnet lr=1e-05 bs=128 epoch 20 | train loss 0.3080 | val loss 0.2682 | val acc 0.9008
+alexnet lr=0.0001 bs=128 epoch 01 | train loss 0.5537 | val loss 0.4484 | val acc 0.8187
+alexnet lr=0.0001 bs=128 epoch 02 | train loss 0.3728 | val loss 0.2879 | val acc 0.8989
+alexnet lr=0.0001 bs=128 epoch 03 | train loss 0.2883 | val loss 0.2276 | val acc 0.9179
+alexnet lr=0.0001 bs=128 epoch 04 | train loss 0.2456 | val loss 0.2021 | val acc 0.9218
+alexnet lr=0.0001 bs=128 epoch 05 | train loss 0.2181 | val loss 0.1837 | val acc 0.9275
+alexnet lr=0.0001 bs=128 epoch 06 | train loss 0.1970 | val loss 0.1598 | val acc 0.9447
+alexnet lr=0.0001 bs=128 epoch 07 | train loss 0.1832 | val loss 0.1425 | val acc 0.9542
+alexnet lr=0.0001 bs=128 epoch 08 | train loss 0.1711 | val loss 0.1378 | val acc 0.9561
+alexnet lr=0.0001 bs=128 epoch 09 | train loss 0.1536 | val loss 0.1173 | val acc 0.9580
+alexnet lr=0.0001 bs=128 epoch 10 | train loss 0.1404 | val loss 0.1088 | val acc 0.9656
+alexnet lr=0.0001 bs=128 epoch 11 | train loss 0.1269 | val loss 0.0987 | val acc 0.9599
+alexnet lr=0.0001 bs=128 epoch 12 | train loss 0.1265 | val loss 0.1005 | val acc 0.9599
+alexnet lr=0.0001 bs=128 epoch 13 | train loss 0.1199 | val loss 0.0877 | val acc 0.9695
+alexnet lr=0.0001 bs=128 epoch 14 | train loss 0.1086 | val loss 0.0861 | val acc 0.9676
+alexnet lr=0.0001 bs=128 epoch 15 | train loss 0.1028 | val loss 0.0821 | val acc 0.9695
+alexnet lr=0.0001 bs=128 epoch 16 | train loss 0.0992 | val loss 0.1087 | val acc 0.9580
+alexnet lr=0.0001 bs=128 epoch 17 | train loss 0.0952 | val loss 0.0802 | val acc 0.9695
+alexnet lr=0.0001 bs=128 epoch 18 | train loss 0.0901 | val loss 0.0869 | val acc 0.9637
+alexnet lr=0.0001 bs=128 epoch 19 | train loss 0.0811 | val loss 0.0770 | val acc 0.9714
+alexnet lr=0.0001 bs=128 epoch 20 | train loss 0.0827 | val loss 0.0787 | val acc 0.9714
+alexnet lr=0.001 bs=128 epoch 01 | train loss 0.3284 | val loss 0.3599 | val acc 0.8492
+alexnet lr=0.001 bs=128 epoch 02 | train loss 0.1719 | val loss 0.1100 | val acc 0.9580
+alexnet lr=0.001 bs=128 epoch 03 | train loss 0.1266 | val loss 0.0967 | val acc 0.9599
+alexnet lr=0.001 bs=128 epoch 04 | train loss 0.1110 | val loss 0.0925 | val acc 0.9676
+alexnet lr=0.001 bs=128 epoch 05 | train loss 0.1001 | val loss 0.1079 | val acc 0.9637
+alexnet lr=0.001 bs=128 epoch 06 | train loss 0.0920 | val loss 0.1047 | val acc 0.9523
+alexnet lr=0.001 bs=128 epoch 07 | train loss 0.0848 | val loss 0.0756 | val acc 0.9695
+alexnet lr=0.001 bs=128 epoch 08 | train loss 0.0694 | val loss 0.0690 | val acc 0.9695
+alexnet lr=0.001 bs=128 epoch 09 | train loss 0.0668 | val loss 0.0609 | val acc 0.9733
+alexnet lr=0.001 bs=128 epoch 10 | train loss 0.0559 | val loss 0.0754 | val acc 0.9695
+alexnet lr=0.001 bs=128 epoch 11 | train loss 0.0527 | val loss 0.0950 | val acc 0.9695
+alexnet lr=0.001 bs=128 epoch 12 | train loss 0.0498 | val loss 0.0699 | val acc 0.9752
+alexnet lr=0.001 bs=128 epoch 13 | train loss 0.0499 | val loss 0.0657 | val acc 0.9771
+alexnet lr=0.01 bs=128 epoch 01 | train loss 0.3966 | val loss 0.1983 | val acc 0.9256
+alexnet lr=0.01 bs=128 epoch 02 | train loss 0.1954 | val loss 0.1533 | val acc 0.9485
+alexnet lr=0.01 bs=128 epoch 03 | train loss 0.1642 | val loss 0.3013 | val acc 0.9160
+alexnet lr=0.01 bs=128 epoch 04 | train loss 0.1526 | val loss 0.1544 | val acc 0.9504
+alexnet lr=0.01 bs=128 epoch 05 | train loss 0.1408 | val loss 0.3421 | val acc 0.9065
+alexnet lr=0.01 bs=128 epoch 06 | train loss 0.1412 | val loss 0.1810 | val acc 0.9427
+alexnet lr=0.1 bs=128 epoch 01 | train loss 3.3407 | val loss 0.5333 | val acc 0.7424
+alexnet lr=0.1 bs=128 epoch 02 | train loss 0.4952 | val loss 0.3027 | val acc 0.8989
+alexnet lr=0.1 bs=128 epoch 03 | train loss 0.3688 | val loss 0.4065 | val acc 0.8817
+alexnet lr=0.1 bs=128 epoch 04 | train loss 0.3413 | val loss 0.2940 | val acc 0.8893
+alexnet lr=0.1 bs=128 epoch 05 | train loss 0.2995 | val loss 0.2918 | val acc 0.8702
+alexnet lr=0.1 bs=128 epoch 06 | train loss 0.2841 | val loss 0.2942 | val acc 0.8702
+alexnet lr=0.1 bs=128 epoch 07 | train loss 0.2699 | val loss 0.1980 | val acc 0.9275
+alexnet lr=0.1 bs=128 epoch 08 | train loss 0.2729 | val loss 0.2403 | val acc 0.9351
+alexnet lr=0.1 bs=128 epoch 09 | train loss 0.2249 | val loss 0.2625 | val acc 0.8931
+alexnet lr=0.1 bs=128 epoch 10 | train loss 0.2279 | val loss 0.1883 | val acc 0.9427
+alexnet lr=0.1 bs=128 epoch 11 | train loss 0.2389 | val loss 0.1806 | val acc 0.9466
+alexnet lr=0.1 bs=128 epoch 12 | train loss 0.2387 | val loss 0.2655 | val acc 0.9523
+alexnet lr=0.1 bs=128 epoch 13 | train loss 0.2323 | val loss 0.1901 | val acc 0.9523
+alexnet lr=0.1 bs=128 epoch 14 | train loss 0.2855 | val loss 0.1536 | val acc 0.9389
+alexnet lr=0.1 bs=128 epoch 15 | train loss 0.2410 | val loss 0.2360 | val acc 0.9485
+alexnet lr=0.1 bs=128 epoch 16 | train loss 0.2562 | val loss 0.1307 | val acc 0.9580
+alexnet lr=0.1 bs=128 epoch 17 | train loss 0.2892 | val loss 0.2539 | val acc 0.9160
+alexnet lr=0.1 bs=128 epoch 18 | train loss 0.2686 | val loss 0.2592 | val acc 0.9256
+alexnet lr=0.1 bs=128 epoch 19 | train loss 0.2770 | val loss 0.1533 | val acc 0.9370
+alexnet lr=0.1 bs=128 epoch 20 | train loss 0.2632 | val loss 0.2037 | val acc 0.9561
+
+learning_rate | best epoch | val loss | val error | sensitivity | specificity
+       1e-05 |         20 | 0.2682   | 0.0992    | 0.9589      | 0.7333
+      0.0001 |         19 | 0.0770   | 0.0286    | 0.9820      | 0.9407
+       0.001 |          9 | 0.0609   | 0.0267    | 0.9897      | 0.9259
+        0.01 |          2 | 0.1533   | 0.0515    | 0.9666      | 0.8963
+         0.1 |         16 | 0.1307   | 0.0420    | 0.9820      | 0.8889
+
+selected learning rate: 0.001
+test accuracy 0.8125 | sensitivity 0.9974 | specificity 0.5043
+exit 0

@@ -1,0 +1,99 @@
+vgg lr=0.001 bs=16 epoch 01 | train loss 0.2874 | val loss 0.1746 | val acc 0.9370
+vgg lr=0.001 bs=16 epoch 02 | train loss 0.1858 | val loss 0.1754 | val acc 0.9294
+vgg lr=0.001 bs=16 epoch 03 | train loss 0.1545 | val loss 0.1559 | val acc 0.9313
+vgg lr=0.001 bs=16 epoch 04 | train loss 0.1334 | val loss 0.1193 | val acc 0.9542
+vgg lr=0.001 bs=16 epoch 05 | train loss 0.1207 | val loss 0.0850 | val acc 0.9695
+vgg lr=0.001 bs=16 epoch 06 | train loss 0.1109 | val loss 0.0758 | val acc 0.9752
+vgg lr=0.001 bs=16 epoch 07 | train loss 0.1261 | val loss 0.1764 | val acc 0.9198
+vgg lr=0.001 bs=16 epoch 08 | train loss 0.1070 | val loss 0.0884 | val acc 0.9752
+vgg lr=0.001 bs=16 epoch 09 | train loss 0.0953 | val loss 0.0714 | val acc 0.9695
+vgg lr=0.001 bs=16 epoch 10 | train loss 0.0872 | val loss 0.0746 | val acc 0.9752
+vgg lr=0.001 bs=16 epoch 11 | train loss 0.0779 | val loss 0.0780 | val acc 0.9733
+vgg lr=0.001 bs=16 epoch 12 | train loss 0.0895 | val loss 0.0612 | val acc 0.9771
+vgg lr=0.001 bs=16 epoch 13 | train loss 0.0738 | val loss 0.0719 | val acc 0.9695
+vgg lr=0.001 bs=16 epoch 14 | train loss 0.0662 | val loss 0.0748 | val acc 0.9695
+vgg lr=0.001 bs=16 epoch 15 | train loss 0.0661 | val loss 0.0773 | val acc 0.9733
+vgg lr=0.001 bs=16 epoch 16 | train loss 0.0653 | val loss 0.0669 | val acc 0.9752
+vgg lr=0.001 bs=32 epoch 01 | train loss 0.3039 | val loss 0.1995 | val acc 0.9351
+vgg lr=0.001 bs=32 epoch 02 | train loss 0.1877 | val loss 0.2959 | val acc 0.8740
+vgg lr=0.001 bs=32 epoch 03 | train loss 0.1611 | val loss 0.1250 | val acc 0.9618
+vgg lr=0.001 bs=32 epoch 04 | train loss 0.1288 | val loss 0.1306 | val acc 0.9466
+vgg lr=0.001 bs=32 epoch 05 | train loss 0.1204 | val loss 0.0905 | val acc 0.9656
+vgg lr=0.001 bs=32 epoch 06 | train loss 0.1072 | val loss 0.2329 | val acc 0.9122
+vgg lr=0.001 bs=32 epoch 07 | train loss 0.1119 | val loss 0.0897 | val acc 0.9695
+vgg lr=0.001 bs=32 epoch 08 | train loss 0.0948 | val loss 0.1074 | val acc 0.9561
+vgg lr=0.001 bs=32 epoch 09 | train loss 0.0973 | val loss 0.0832 | val acc 0.9695
+vgg lr=0.001 bs=32 epoch 10 | train loss 0.0811 | val loss 0.1330 | val acc 0.9427
+vgg lr=0.001 bs=32 epoch 11 | train loss 0.0720 | val loss 0.0991 | val acc 0.9695
+vgg lr=0.001 bs=32 epoch 12 | train loss 0.0723 | val loss 0.0741 | val acc 0.9733
+vgg lr=0.001 bs=32 epoch 13 | train loss 0.0746 | val loss 0.0731 | val acc 0.9752
+vgg lr=0.001 bs=32 epoch 14 | train loss 0.0739 | val loss 0.1649 | val acc 0.9408
+vgg lr=0.001 bs=32 epoch 15 | train loss 0.0607 | val loss 0.0580 | val acc 0.9771
+vgg lr=0.001 bs=32 epoch 16 | train loss 0.0495 | val loss 0.0698 | val acc 0.9695
+vgg lr=0.001 bs=32 epoch 17 | train loss 0.0690 | val loss 0.0751 | val acc 0.9733
+vgg lr=0.001 bs=32 epoch 18 | train loss 0.0474 | val loss 0.0687 | val acc 0.9695
+vgg lr=0.001 bs=32 epoch 19 | train loss 0.0493 | val loss 0.1270 | val acc 0.9485
+vgg lr=0.001 bs=64 epoch 01 | train loss 0.3362 | val loss 0.2339 | val acc 0.9141
+vgg lr=0.001 bs=64 epoch 02 | train loss 0.2071 | val loss 0.3753 | val acc 0.8378
+vgg lr=0.001 bs=64 epoch 03 | train loss 0.1648 | val loss 0.1732 | val acc 0.9294
+vgg lr=0.001 bs=64 epoch 04 | train loss 0.1352 | val loss 0.1627 | val acc 0.9351
+vgg lr=0.001 bs=64 epoch 05 | train loss 0.1189 | val loss 0.1098 | val acc 0.9637
+vgg lr=0.001 bs=64 epoch 06 | train loss 0.1054 | val loss 0.1233 | val acc 0.9542
+vgg lr=0.001 bs=64 epoch 07 | train loss 0.1027 | val loss 0.2031 | val acc 0.9141
+vgg lr=0.001 bs=64 epoch 08 | train loss 0.0882 | val loss 0.0931 | val acc 0.9599
+vgg lr=0.001 bs=64 epoch 09 | train loss 0.0960 | val loss 0.1161 | val acc 0.9599
+vgg lr=0.001 bs=64 epoch 10 | train loss 0.0825 | val loss 0.0871 | val acc 0.9714
+vgg lr=0.001 bs=64 epoch 11 | train loss 0.0749 | val loss 0.0910 | val acc 0.9714
+vgg lr=0.001 bs=64 epoch 12 | train loss 0.0685 | val loss 0.1044 | val acc 0.9599
+vgg lr=0.001 bs=64 epoch 13 | train loss 0.0752 | val loss 0.2081 | val acc 0.9122
+vgg lr=0.001 bs=64 epoch 14 | train loss 0.0621 | val loss 0.0795 | val acc 0.9656
+vgg lr=0.001 bs=64 epoch 15 | train loss 0.0638 | val loss 0.0892 | val acc 0.9695
+vgg lr=0.001 bs=64 epoch 16 | train loss 0.0495 | val loss 0.2010 | val acc 0.9351
+vgg lr=0.001 bs=64 epoch 17 | train loss 0.0558 | val loss 0.0889 | val acc 0.9656
+vgg lr=0.001 bs=64 epoch 18 | train loss 0.0480 | val loss 0.1336 | val acc 0.9504
+vgg lr=0.001 bs=128 epoch 01 | train loss 0.3856 | val loss 0.6445 | val acc 0.7424
+vgg lr=0.001 bs=128 epoch 02 | train loss 0.2484 | val loss 0.2643 | val acc 0.9046
+vgg lr=0.001 bs=128 epoch 03 | train loss 0.1918 | val loss 0.1717 | val acc 0.9447
+vgg lr=0.001 bs=128 epoch 04 | train loss 0.1597 | val loss 0.2006 | val acc 0.9256
+vgg lr=0.001 bs=128 epoch 05 | train loss 0.1420 | val loss 0.1632 | val acc 0.9389
+vgg lr=0.001 bs=128 epoch 06 | train loss 0.1276 | val loss 0.1251 | val acc 0.9542
+vgg lr=0.001 bs=128 epoch 07 | train loss 0.1172 | val loss 0.2464 | val acc 0.8912
+vgg lr=0.001 bs=128 epoch 08 | train loss 0.1050 | val loss 0.1691 | val acc 0.9447
+vgg lr=0.001 bs=128 epoch 09 | train loss 0.1108 | val loss 0.1505 | val acc 0.9447
+vgg lr=0.001 bs=128 epoch 10 | train loss 0.0937 | val loss 0.1119 | val acc 0.9580
+vgg lr=0.001 bs=128 epoch 11 | train loss 0.0851 | val loss 0.0900 | val acc 0.9733
+vgg lr=0.001 bs=128 epoch 12 | train loss 0.0814 | val loss 0.0967 | val acc 0.9599
+vgg lr=0.001 bs=128 epoch 13 | train loss 0.0821 | val loss 0.4206 | val acc 0.8321
+vgg lr=0.001 bs=128 epoch 14 | train loss 0.0733 | val loss 0.1909 | val acc 0.9179
+vgg lr=0.001 bs=128 epoch 15 | train loss 0.0657 | val loss 0.1159 | val acc 0.9656
+vgg lr=0.001 bs=256 epoch 01 | train loss 0.4436 | val loss 0.6132 | val acc 0.7424
+vgg lr=0.001 bs=256 epoch 02 | train loss 0.3110 | val loss 0.6042 | val acc 0.7424
+vgg lr=0.001 bs=256 epoch 03 | train loss 0.2555 | val loss 0.2695 | val acc 0.8721
+vgg lr=0.001 bs=256 epoch 04 | train loss 0.2147 | val loss 0.2247 | val acc 0.9065
+vgg lr=0.001 bs=256 epoch 05 | train loss 0.1906 | val loss 0.2345 | val acc 0.8855
+vgg lr=0.001 bs=256 epoch 06 | train loss 0.1668 | val loss 0.1681 | val acc 0.9466
+vgg lr=0.001 bs=256 epoch 07 | train loss 0.1487 | val loss 0.2386 | val acc 0.8893
+vgg lr=0.001 bs=256 epoch 08 | train loss 0.1372 | val loss 0.1353 | val acc 0.9580
+vgg lr=0.001 bs=256 epoch 09 | train loss 0.1314 | val loss 0.1461 | val acc 0.9466
+vgg lr=0.001 bs=256 epoch 10 | train loss 0.1166 | val loss 0.1299 | val acc 0.9561
+vgg lr=0.001 bs=256 epoch 11 | train loss 0.1097 | val loss 0.2397 | val acc 0.9103
+vgg lr=0.001 bs=256 epoch 12 | train loss 0.1088 | val loss 0.1611 | val acc 0.9351
+vgg lr=0.001 bs=256 epoch 13 | train loss 0.1044 | val loss 0.1861 | val acc 0.9237
+vgg lr=0.001 bs=256 epoch 14 | train loss 0.0926 | val loss 0.1087 | val acc 0.9580
+vgg lr=0.001 bs=256 epoch 15 | train loss 0.0823 | val loss 0.1253 | val acc 0.9523
+vgg lr=0.001 bs=256 epoch 16 | train loss 0.0811 | val loss 0.1011 | val acc 0.9676
+vgg lr=0.001 bs=256 epoch 17 | train loss 0.0765 | val loss 0.2249 | val acc 0.9122
+vgg lr=0.001 bs=256 epoch 18 | train loss 0.0730 | val loss 0.1259 | val acc 0.9542
+vgg lr=0.001 bs=256 epoch 19 | train loss 0.0730 | val loss 0.0995 | val acc 0.9523
+vgg lr=0.001 bs=256 epoch 20 | train loss 0.0723 | val loss 0.2046 | val acc 0.9218
+
+  batch_size | best epoch | val loss | val error | sensitivity | specificity
+          16 |         12 | 0.0612   | 0.0229    | 0.9897      | 0.9407
+          32 |         15 | 0.0580   | 0.0229    | 0.9769      | 0.9778
+          64 |         14 | 0.0795   | 0.0344    | 0.9846      | 0.9111
+         128 |         11 | 0.0900   | 0.0267    | 0.9871      | 0.9333
+         256 |         19 | 0.0995   | 0.0477    | 0.9846      | 0.8593
+
+selected batch size: 32
+test accuracy 0.9054 | sensitivity 0.9974 | specificity 0.7521
+exit 0

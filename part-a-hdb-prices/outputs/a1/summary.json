@@ -1,0 +1,94 @@
+{
+  "baseline_parameters": 3505,
+  "baseline_parameter_breakdown": {
+    "embeddings.0.weight": 104,
+    "embeddings.1.weight": 216,
+    "embeddings.2.weight": 352,
+    "embeddings.3.weight": 144,
+    "mlp.0.weight": 2432,
+    "mlp.0.bias": 64,
+    "mlp.1.weight": 64,
+    "mlp.1.bias": 64,
+    "mlp.3.weight": 64,
+    "mlp.3.bias": 1
+  },
+  "cardinalities": {
+    "month": 13,
+    "town": 27,
+    "flat_model_type": 44,
+    "storey_range": 18
+  },
+  "split_sizes": {
+    "train": 87370,
+    "validation": 29057,
+    "test": 26702
+  },
+  "selected": {
+    "hidden_width": 64,
+    "embedding_dim": 8,
+    "best_validation_rmse": 59029.39453125,
+    "best_epoch": 8,
+    "epochs_run": 12,
+    "train_rmse_at_best": 33981.0078125,
+    "parameters": 3505
+  },
+  "selected_parameters": 3505,
+  "selected_config": {
+    "hidden_width": 64,
+    "embedding_dims": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "epochs": 8
+  },
+  "final_history": {
+    "train_rmse": [
+      45016.4375,
+      42873.32421875,
+      41222.109375,
+      40665.3984375,
+      41446.66796875,
+      40465.08203125,
+      40761.1875,
+      39783.03125
+    ],
+    "eval_rmse": [
+      107116.1484375,
+      109275.546875,
+      105648.96875,
+      105343.75,
+      111024.703125,
+      97618.484375,
+      95264.828125,
+      102736.078125
+    ],
+    "train_r2": [
+      0.9200268611311913,
+      0.9274602234363556,
+      0.9329401850700378,
+      0.9347392618656158,
+      0.9322075843811035,
+      0.9353806227445602,
+      0.9344314560294151,
+      0.937540628015995
+    ],
+    "eval_r2": [
+      0.6041938364505768,
+      0.5880745649337769,
+      0.6149623692035675,
+      0.6171838641166687,
+      0.574781745672226,
+      0.6712719202041626,
+      0.6869325935840607,
+      0.635901689529419
+    ],
+    "best_epoch": 8
+  },
+  "final_test": {
+    "rmse": 102736.078125,
+    "r2": 0.635901689529419,
+    "bias": -92115.109375
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "baseline": {
+    "importance_sgd": {
+      "month": 38341.23828125,
+      "town": 46790.22265625,
+      "flat_model_type": 43246.9140625,
+      "storey_range": 17483.75,
+      "dist_to_nearest_stn": 19934.677734375,
+      "dist_to_dhoby": 34678.05859375,
+      "degree_centrality": 2871.885009765625,
+      "eigenvector_centrality": 4647.787109375,
+      "remaining_lease_years": 43167.69140625,
+      "floor_area_sqm": 59455.75390625
+    },
+    "ranking": [
+      "floor_area_sqm",
+      "town",
+      "flat_model_type",
+      "remaining_lease_years",
+      "month",
+      "dist_to_dhoby",
+      "dist_to_nearest_stn",
+      "storey_range",
+      "eigenvector_centrality",
+      "degree_centrality"
+    ]
+  },
+  "wide_and_deep": {
+    "importance_sgd": {
+      "month": 20635.73046875,
+      "town": 40998.52734375,
+      "flat_model_type": 51786.640625,
+      "storey_range": 18511.6953125,
+      "dist_to_nearest_stn": 20186.76953125,
+      "dist_to_dhoby": 36142.86328125,
+      "degree_centrality": 3455.333984375,
+      "eigenvector_centrality": 5156.6005859375,
+      "remaining_lease_years": 46732.95703125,
+      "floor_area_sqm": 60805.53125
+    },
+    "ranking": [
+      "floor_area_sqm",
+      "flat_model_type",
+      "remaining_lease_years",
+      "town",
+      "dist_to_dhoby",
+      "month",
+      "dist_to_nearest_stn",
+      "storey_range",
+      "eigenvector_centrality",
+      "degree_centrality"
+    ]
+  }
+}

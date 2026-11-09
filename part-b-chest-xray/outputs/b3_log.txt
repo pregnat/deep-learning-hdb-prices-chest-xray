@@ -1,0 +1,23 @@
+resnet lr=0.001 bs=32 epoch 01 | train loss 0.2325 | val loss 0.3398 | val acc 0.8531
+resnet lr=0.001 bs=32 epoch 02 | train loss 0.1444 | val loss 0.1887 | val acc 0.9275
+resnet lr=0.001 bs=32 epoch 03 | train loss 0.1272 | val loss 0.1088 | val acc 0.9542
+resnet lr=0.001 bs=32 epoch 04 | train loss 0.0939 | val loss 0.0883 | val acc 0.9676
+resnet lr=0.001 bs=32 epoch 05 | train loss 0.0870 | val loss 0.0767 | val acc 0.9695
+resnet lr=0.001 bs=32 epoch 06 | train loss 0.0799 | val loss 0.2356 | val acc 0.9160
+resnet lr=0.001 bs=32 epoch 07 | train loss 0.0636 | val loss 0.0976 | val acc 0.9637
+resnet lr=0.001 bs=32 epoch 08 | train loss 0.0785 | val loss 0.0957 | val acc 0.9580
+resnet lr=0.001 bs=32 epoch 09 | train loss 0.0631 | val loss 0.0698 | val acc 0.9733
+resnet lr=0.001 bs=32 epoch 10 | train loss 0.0492 | val loss 0.1554 | val acc 0.9504
+resnet lr=0.001 bs=32 epoch 11 | train loss 0.0417 | val loss 0.1646 | val acc 0.9485
+resnet lr=0.001 bs=32 epoch 12 | train loss 0.0369 | val loss 0.0682 | val acc 0.9771
+resnet lr=0.001 bs=32 epoch 13 | train loss 0.0384 | val loss 0.1089 | val acc 0.9676
+resnet lr=0.001 bs=32 epoch 14 | train loss 0.0334 | val loss 0.3021 | val acc 0.9218
+resnet lr=0.001 bs=32 epoch 15 | train loss 0.0189 | val loss 0.0775 | val acc 0.9714
+resnet lr=0.001 bs=32 epoch 16 | train loss 0.0165 | val loss 0.1600 | val acc 0.9542
+
+ResNet-like test: accuracy 0.8910 | sensitivity 0.9949 | specificity 0.7179
+
+model            | accuracy | sensitivity | specificity | error  | params | MFLOPs
+B1 AlexNet-like  | 0.8125   | 0.9974      | 0.5043      | 0.1875 | 99,569 | 39.06
+B2 VGG-like      | 0.9054   | 0.9974      | 0.7521      | 0.0946 | 18,185 | 19.46
+B3 ResNet-like   | 0.8910   | 0.9949      | 0.7179      | 0.1090 | 77,169 | 25.30
